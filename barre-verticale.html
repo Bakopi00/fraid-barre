@@ -4,8 +4,9 @@
 <style>
   * { margin: 0; padding: 0; }
   body {
-    width: 8px;
+    width: 12px;
     height: 100vh;
+    margin: 0 auto;
     background: linear-gradient(
       180deg,
       #7F77DD 0%,
@@ -14,7 +15,7 @@
       #BA7517 75%,
       #7F77DD 100%
     );
-    border-radius: 4px;
+    border-radius: 6px;
   }
 </style>
 </head>
